@@ -130,7 +130,7 @@ Password: adminpass
 
 ## 📸 Screenshots
 
-```
+```markdown
 ![Home Page](screenshots/homepage.jpg)
 ![Admin Dashboard](screenshots/admin_dashboard.jpg)
 ![User Dashboard](screenshots/user_dashboard.jpg)
@@ -141,7 +141,7 @@ Password: adminpass
 
 ## 🧱 System Architecture
 
-```
+```markdown
 ![Architecture](screenshots/architecture.png)
 ```
 
