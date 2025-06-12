@@ -134,7 +134,7 @@ Place screenshots in a folder named `screenshots/` and link them like this:
 
 ```markdown
 ![Home Page](screenshots/homepage.jpg)
-![Admin Dashboard](screenshots/admin_dashboard.jpg)
+![Admin Dashboard]([screenshots/admin_dashboard.jpg](https://github.com/darshneesunderraj/E-Book-Vault/blob/7672fdaeddfea4ef6edd4ffba6c7b8cd80aa8a29/screenshots/admin_dashboard.jpg))
 ![User Dashboard](screenshots/user_dashboard.jpg)
 
 ```
