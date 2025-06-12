@@ -133,8 +133,10 @@ Password: adminpass
 Place screenshots in a folder named `screenshots/` and link them like this:
 
 ```markdown
-![Home Page](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
+![Home Page](screenshots/homepage.jpg)
+![Admin Dashboard](screenshots/admin dashboard.jpg)
+![User Dashboard](screenshots/user dashboard.jpg)
+
 ```
 
 ---
