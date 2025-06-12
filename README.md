@@ -142,11 +142,13 @@ Password: adminpass
 
 ---
 
+---
+
 ## 🧱 System Architecture
 
-![Architecture](screenshots/architecture.png)
-```
+![Architecture](screenshots/arch.jpg)
 
+---
 
 ## 🚧 Future Improvements
 
