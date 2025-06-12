@@ -146,7 +146,7 @@ Password: adminpass
 
 ## 🧱 System Architecture
 
-![Architecture](screenshots/arch.jpg)
+![Architecture](architecture/arch.jpg)
 
 ---
 
