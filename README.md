@@ -134,8 +134,8 @@ Place screenshots in a folder named `screenshots/` and link them like this:
 
 ```markdown
 ![Home Page](screenshots/homepage.jpg)
-![Admin Dashboard](screenshots/admin dashboard.jpg)
-![User Dashboard](screenshots/user dashboard.jpg)
+![Admin Dashboard](screenshots/admin_dashboard.jpg)
+![User Dashboard](screenshots/user_dashboard.jpg)
 
 ```
 
