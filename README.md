@@ -130,12 +130,15 @@ Password: adminpass
 
 ## 📸 Screenshots
 
-```markdown
+### Home Page
 ![Home Page](screenshots/homepage.jpg)
+
+### Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dashboard.jpg)
+
+### User Dashboard
 ![User Dashboard](screenshots/user_dashboard.jpg)
 
-```
 
 ---
 
