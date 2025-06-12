@@ -144,13 +144,9 @@ Password: adminpass
 
 ## 🧱 System Architecture
 
-```markdown
 ![Architecture](screenshots/architecture.png)
 ```
 
-> Add your system architecture or data flow diagram to the `screenshots/` folder.
-
----
 
 ## 🚧 Future Improvements
 
